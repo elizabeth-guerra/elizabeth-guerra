@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
 
 
-- 🌱 I’m currently learning **Java, SQL, and React**
 
 - 📫 How to reach me **gelizabeth324@outlook.com**
 
