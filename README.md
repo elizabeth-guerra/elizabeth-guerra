@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
-<h3 align="center">Full Stack Developer</h3>
+
 
 - 🌱 I’m currently learning **Java, SQL, and React**
 
