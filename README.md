@@ -2,7 +2,7 @@
 
 
 
-- 📫 How to reach me **gelizabeth324@outlook.com**
+- 📫 How to reach me **elizabeth_guerra@icloud.com**
 
 </p>
 
